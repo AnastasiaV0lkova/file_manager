@@ -1,0 +1,22 @@
+{
+  "name": "file_manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "start:named": "node src/index.js --username=TestName",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasiaV0lkova/file_manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiaV0lkova/file_manager/issues"
+  },
+  "homepage": "https://github.com/AnastasiaV0lkova/file_manager#readme"
+}
